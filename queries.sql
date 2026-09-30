@@ -1,5 +1,13 @@
 SELECT * FROM produto;
 
+SELECT * FROM pagamento;
+
+SELECT * FROM item_pedido;
+
+SELECT * FROM cliente;
+
+SELECT * FROM pedido;
+
 SELECT * FROM produto
 WHERE preco >= 50;
 
